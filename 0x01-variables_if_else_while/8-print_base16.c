@@ -20,7 +20,7 @@ int main(void)
 		}
 	while
 		(c <= 'f') {
-			pitchar(c);
+			putchar(c);
 			c++;
 		}
 	putchar('\n');
