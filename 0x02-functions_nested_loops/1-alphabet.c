@@ -1,13 +1,13 @@
 #include "main.h"
 
-
 /**
- * main - print_alphabet.
- *
+ * print_alphabet - Make the alphabet
  * Return: void
  */
 
+
 void print_alphabet(void)
+
 {
 	char c;
 
