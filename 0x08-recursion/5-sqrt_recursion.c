@@ -18,7 +18,6 @@ int _evaluate(int i, int n)
 }
 /**
  * *_sqrt_recursion - evaluate sqrt
- * _evaluate - Evaluate function sqrt
  * *@n: interger
  * *Return: sqrt_recursion
  */
